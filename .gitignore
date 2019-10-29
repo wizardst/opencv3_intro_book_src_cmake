@@ -8,3 +8,7 @@ CMakeCache.txt
 CMakeFiles
 CMakeDirectoryInformation.cmake
 *.o
+
+Debug
+Release
+
